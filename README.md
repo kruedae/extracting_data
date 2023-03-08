@@ -5,8 +5,7 @@ This repository is a supplement to the understand how to set up in the simplest 
 
 ### Installation and dependencies
 
-Download the GitHub repository and go to Jupyter Notebooks folder to run the notebooks. 
-Do not change the name of the MLQD folder as the system will look for the MLQD folder. 
+Download the GitHub repository and follow the next step befor go to run the notebooks. 
 
 *Some dependencies:* 
 
@@ -27,13 +26,13 @@ This example demonstrates a reproducible scheme to use a useful project configur
 
 ---
 
-**Rule 9: Design Your Notebooks to Be Read, Run, and Explored.** The nbviewer links below provide a non-interactive preview of notebooks, you can use also Binder and other websites to make it interactive 
+**Design Your Notebooks to Be Read, Run, and Explored.** The nbviewer links below provide a non-interactive preview of notebooks, you can use also Binder and other websites to make it interactive 
 
 ---
 
-| Nbviewer |
-| ---      |
-| [0-Workflow.ipynb](https://nbviewer.org/github/kruedae/extracting_data/blob/master/1-ExampleNotebook.ipynb)|
+| Nbviewer |Bindr|
+| ---      | ---      |
+| [0-Workflow.ipynb](https://nbviewer.org/github/kruedae/extracting_data/blob/master/1-ExampleNotebook.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F0-Workflow.ipynb) |
 
 ## Contact Us
 If you encounter any problems with this repository, please report them [here](https://github.com/kruedae/extracting_data.git/issues).
